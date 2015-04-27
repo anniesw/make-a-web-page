@@ -1,0 +1,96 @@
+body {
+  padding: 10px;
+  max-width: 1255px;
+  font-family: Calibri;
+  font-size: 115%;
+  text-align: left;
+  text-indent: 1px;
+  background-color: #EBEBEA;
+  color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 175%;
+  font-weight: 400;
+  text-align: center;
+  Font-family: Calibri;
+}
+
+h2 {
+  color: white;
+  font-weight: 500;
+  font-family: Calibri;
+  font-style: oblique;
+}
+
+h3 {
+  color: #003366;
+  font-weight: 600;
+  line-height: 3px;
+  text-indent: 20px;
+}
+
+b {
+  font-weight: 700;
+}
+
+em {
+  font-weight: normal;
+}
+
+div {
+  Background-color: white;
+  margin: 20px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  border: 5px;
+  Padding: 5px;
+  Border-radius: 5px;
+  border-style: ridge;
+  border-width: thin;
+  border-color: lightgrey;
+  line-height: 30px;
+}
+
+li {
+  line-height: 24px;
+}
+
+.parts {
+  background-color: #19194A;
+  line-height: 7px;
+  text-indent: 20px;
+  padding: 1px;
+  border-radius: 5px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  border-style: ridge;
+  border-width: thin;
+  border-color: lightgrey;
+}
+
+#header {
+  background-color: #424235;
+  line-height: 27px;
+  border-style: ridge;
+  border-width: thin;
+  border-color: lightgrey;
+}
+
+#nav {
+  font-family: Calibri;
+  color: black;
+  font-size: 95%;
+  line-height: 23px;
+  background-color: white;
+  margin: 3px;
+  padding: 5px;
+  position: fixed;
+  top: 19px;
+  right: 10px;
+  width: 300px;
+  border-style: ridge;
+  border-width: 2px;
+  border-color: lightgrey;
+}
